@@ -9,8 +9,13 @@ namespace SelfCSharp.Ch08
         {
             return $"{this.LastName}{this.FirstName}は働きます。";
         }
+
+        public new string Show()
+        {
+            return $"会社員の{this.LastName} {this.FirstName}です。";
+        }
     }
-    public class InheritBasic
+    class InheritBasic
     {
         static void Main(string[] args)
         {

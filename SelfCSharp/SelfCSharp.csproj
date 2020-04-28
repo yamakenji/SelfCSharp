@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>SelfCSharp.Ch08.InheritBasic</StartupObject>
+    <StartupObject>SelfCSharp.Ch08.Construct.ConstArgs</StartupObject>
   </PropertyGroup>
 
 </Project>
