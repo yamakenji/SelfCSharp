@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>SelfCSharp.Ch08.Construct.ConstArgs</StartupObject>
+    <StartupObject>SelfCSharp.Ch08.Practice.Practice5</StartupObject>
   </PropertyGroup>
 
 </Project>
