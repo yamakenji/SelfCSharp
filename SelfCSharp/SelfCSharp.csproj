@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>SelfCSharp.Ch09.Practice92</StartupObject>
+    <StartupObject>SelfCSharp.Ch09.NestedBasic</StartupObject>
   </PropertyGroup>
 
 </Project>
