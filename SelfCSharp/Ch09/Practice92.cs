@@ -22,7 +22,5 @@ namespace SelfCSharp.Ch09
             var w = Weekday.All;
             Console.WriteLine(w.ToString("D"));
         }
-        
-        
     }
 }
